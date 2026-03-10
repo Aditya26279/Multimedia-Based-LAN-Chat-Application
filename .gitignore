@@ -1,0 +1,43 @@
+# Compiled Java classes
+*.class
+
+# Compiled output directory
+/out/
+
+# Java archives
+*.jar
+*.war
+*.ear
+
+# Logs
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.idea/
+.vscode/
+*.iml
+*.ipr
+*.iws
+
+# Temporary files
+*.tmp
+*.swp
+*~
+
+# Build scripts outputs
+build/
+
+# NetBeans / Eclipse / IntelliJ
+nbproject/
+.project
+.classpath
+.settings/
+
+# Package files
+*.zip
+*.tar
+*.gz
